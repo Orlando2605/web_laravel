@@ -14,7 +14,7 @@
 
     <nav class="flex py-5 bg-indigo-500 text-white">
       <div class="w-1/2 px-12 mr-auto">
-        <p class="text-2xl font-bold">Mi Aplicación</p>
+        <p class="text-2xl font-bold">Mi Aplicación De Sesión</p>
       </div>
 
       <ul class="w-1/2 px-16 ml-auto flex justify-end pt-1">
